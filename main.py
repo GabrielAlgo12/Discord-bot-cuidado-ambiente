@@ -29,4 +29,4 @@ async def info(ctx):
         await ctx.send(texto3)
         await ctx.send(texto4)
 
-bot.run("MTEyNTkyMTE3NTI1MjUxMjg2OA.GvvMnJ.2DUlIzwppMn2Vrc9_7eh7d3b0fQrLhPzWsBLVk")
+bot.run("TOKEN")
