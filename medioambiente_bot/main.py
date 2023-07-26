@@ -14,4 +14,4 @@ async def medioambiente(ctx):
         coso = random.choice(palabras)
         await ctx.send(coso)
 
-bot.run("MTEyNTkyMTE3NTI1MjUxMjg2OA.Grimj2.BkI-AIprz9XiuVt_1g_2t86Ci_dq1_nKA8za7s")
+bot.run("Token")
